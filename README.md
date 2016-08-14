@@ -5,4 +5,3 @@
   
   The repository contains a final report and a CAD video, which gives a detailed description of the human factors apporoach that went into finding a more efficient mechanism and a representaion of how the new mechanism would work through the video.
 
-Fellow collaborators: Tanay Garg and Mitul Shah
